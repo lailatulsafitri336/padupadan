@@ -1,0 +1,485 @@
+.Custom {
+    width: 100vw;
+    height: 100vh;
+}
+
+.padupadan{
+    font-weight: 600;
+    font-size: 29px;
+    cursor: pointer;
+    position: absolute;
+    top: 40px;
+    left: 90px;
+    transform: translateY(-50%);
+    color: #ffffff;
+}
+.kotak {
+  width: 290px; /* Atur lebar kotak */
+  height: 820px; /* Atur tinggi kotak */
+  background-color: #353B55; /* Atur warna latar belakang kotak */
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  z-index: -1;
+}
+
+.dropdown-button {
+  display: inline-block;
+  padding: 7px 50px;
+  background-color: transparent; 
+  color: #ffffff; 
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 130px;
+  right: 1290px; 
+  transform: translateY(-50%);
+  width: 210px;
+  text-align: center;
+}
+
+.dropdown-button:hover {
+  background-color: #738CF1; 
+  color: #ffffff;
+  padding: 7px 50px; 
+  border-radius: 10px; 
+}
+
+
+.femaleshirt {
+display: inline-block;
+  padding: 7px 15px; 
+  background-color: #007bff; 
+  color: #fff; 
+  font-size: 13px; 
+  border: none; 
+  border-radius: 10px;
+  cursor: pointer; 
+  transition: background-color 0.3s ease; 
+  position: absolute;
+  top: 180px;
+  right: 69%;
+  transform: translateY(-50%);
+}
+
+
+.maleshirt {
+    display: inline-block;
+      padding: 7px 15px; 
+      background-color: #007bff; 
+      color: #fff; 
+      font-size: 13px; 
+      border: none; 
+      border-radius: 10px;
+      cursor: pointer; 
+      transition: background-color 0.3s ease; 
+      position: absolute;
+      top: 130px;
+      right: 70%;
+      transform: translateY(-50%);
+    }
+
+    .dropdown-button2{
+        display: inline-block;
+      padding: 7px 50px; 
+      background-color: transparent; 
+      color: #fff; 
+      font-size: 20px; 
+      border: none; 
+      border-radius: 10px;
+      cursor: pointer; 
+      transition: background-color 0.3s ease; 
+      position: absolute;
+      top: 180px;
+      right: 1290px;
+      transform: translateY(-50%);
+      width: 210px;
+  text-align: center;
+    }
+    
+    .dropdown-button2:hover {
+      background-color: #738CF1; 
+      color: #ffffff;
+      padding: 7px 50px; 
+      border-radius: 10px; 
+    }
+
+    
+    .maletshirt {
+      display: inline-block;
+        padding: 7px 15px; 
+        background-color: #007bff; 
+        color: #fff; 
+        font-size: 13px; 
+        border: none; 
+        border-radius: 10px;
+        cursor: pointer; 
+        transition: background-color 0.3s ease; 
+        position: absolute;
+        top: 130px;
+        right: 70%;
+        transform: translateY(-50%);
+      }
+
+      .femaletshirt {
+        display: inline-block;
+          padding: 7px 15px; 
+          background-color: #007bff; 
+          color: #fff; 
+          font-size: 13px; 
+          border: none; 
+          border-radius: 10px;
+          cursor: pointer; 
+          transition: background-color 0.3s ease; 
+          position: absolute;
+          top: 180px;
+          right: 69%;
+          transform: translateY(-50%);
+        }
+
+        .malesuit {
+          display: inline-block;
+            padding: 7px 15px; 
+            background-color: #007bff; 
+            color: #fff; 
+            font-size: 13px; 
+            border: none; 
+            border-radius: 10px;
+            cursor: pointer; 
+            transition: background-color 0.3s ease; 
+            position: absolute;
+            top: 130px;
+            right: 70%;
+            transform: translateY(-50%);
+          }
+    
+          .femalesuit {
+            display: inline-block;
+              padding: 7px 15px; 
+              background-color: #007bff; 
+              color: #fff; 
+              font-size: 13px; 
+              border: none; 
+              border-radius: 10px;
+              cursor: pointer; 
+              transition: background-color 0.3s ease; 
+              position: absolute;
+              top: 180px;
+              right: 69%;
+              transform: translateY(-50%);
+            }
+
+  
+.dropdown-button3{
+  display: inline-block;
+  padding: 7px 50px;
+  background-color: transparent; 
+  color: #ffffff; 
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 230px;
+  right: 1290px; 
+  transform: translateY(-50%);
+  width: 210px;
+  text-align: center;
+  }
+
+  .dropdown-button3:hover {
+    background-color: #738CF1; 
+    color: #ffffff;
+    padding: 7px 50px; 
+    border-radius: 10px; 
+  }
+    
+    .dropdown-button4{
+      display: inline-block;
+      padding: 7px 50px; 
+      background-color: transparent; 
+      color: #fff; 
+      font-size: 20px; 
+      border: none; 
+      border-radius: 10px;
+      cursor: pointer; 
+      transition: background-color 0.3s ease; 
+      position: absolute;
+      top: 280px;
+      right: 1290px;
+      transform: translateY(-50%);
+      width: 210px;
+  text-align: center;
+  }
+
+  .dropdown-button4:hover {
+    background-color: #738CF1; 
+    color: #ffffff;
+    padding: 7px 50px; 
+    border-radius: 10px; 
+  } 
+  .dress {
+    display: inline-block;
+      padding: 7px 15px; 
+      background-color: #007bff; 
+      color: #fff; 
+      font-size: 13px; 
+      border: none; 
+      border-radius: 10px;
+      cursor: pointer; 
+      transition: background-color 0.3s ease; 
+      position: absolute;
+      top: 130px;
+      right: 70%;
+      transform: translateY(-50%);
+    }
+
+    .kebaya1 {
+      display: inline-block;
+        padding: 7px 15px; 
+        background-color: #007bff; 
+        color: #fff; 
+        font-size: 13px; 
+        border: none; 
+        border-radius: 10px;
+        cursor: pointer; 
+        transition: background-color 0.3s ease; 
+        position: absolute;
+        top: 180px;
+        right: 69%;
+        transform: translateY(-50%);
+      }
+      .kebaya2 {
+        display: inline-block;
+          padding: 7px 15px; 
+          background-color: #007bff; 
+          color: #fff; 
+          font-size: 13px; 
+          border: none; 
+          border-radius: 10px;
+          cursor: pointer; 
+          transition: background-color 0.3s ease; 
+          position: absolute;
+          top: 230px;
+          right: 69%;
+          transform: translateY(-50%);
+        }
+  
+        .kebaya3 {
+          display: inline-block;
+            padding: 7px 15px; 
+            background-color: #007bff; 
+            color: #fff; 
+            font-size: 13px; 
+            border: none; 
+            border-radius: 10px;
+            cursor: pointer; 
+            transition: background-color 0.3s ease; 
+            position: absolute;
+            top: 280px;
+            right: 69%;
+            transform: translateY(-50%);
+          }
+
+    .dropdown-button5{
+      display: inline-block;
+    padding: 7px 50px; 
+    background-color: transparent; 
+    color: #fff; 
+    font-size: 20px; 
+    border: none; 
+    border-radius: 10px;
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+    position: absolute;
+    top: 330px;
+    right: 1290px;
+    transform: translateY(-50%);
+    width: 210px;
+text-align: center;
+  }
+  
+  .dropdown-button5:hover {
+    background-color: #738CF1; 
+    color: #ffffff;
+    padding: 7px 50px; 
+    border-radius: 10px; 
+  }
+
+  .blouse {
+    display: inline-block;
+      padding: 7px 15px; 
+      background-color: #007bff; 
+      color: #fff; 
+      font-size: 13px; 
+      border: none; 
+      border-radius: 10px;
+      cursor: pointer; 
+      transition: background-color 0.3s ease; 
+      position: absolute;
+      top: 130px;
+      right: 70%;
+      transform: translateY(-50%);
+    }
+
+    .blouse2 {
+      display: inline-block;
+        padding: 7px 15px; 
+        background-color: #007bff; 
+        color: #fff; 
+        font-size: 13px; 
+        border: none; 
+        border-radius: 10px;
+        cursor: pointer; 
+        transition: background-color 0.3s ease; 
+        position: absolute;
+        top: 180px;
+        right: 70%;
+        transform: translateY(-50%);
+      }
+
+    .dropdown-button6{
+      display: inline-block;
+    padding: 7px 50px; 
+    background-color: transparent; 
+    color: #fff; 
+    font-size: 20px; 
+    border: none; 
+    border-radius: 10px;
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+    position: absolute;
+    top: 380px;
+    right: 1290px;
+    transform: translateY(-50%);
+    width: 210px;
+text-align: center;
+  }
+  
+  .dropdown-button6:hover {
+    background-color: #738CF1; 
+    color: #ffffff;
+    padding: 7px 50px; 
+    border-radius: 10px; 
+  }
+
+  .skirt {
+    display: inline-block;
+      padding: 7px 15px; 
+      background-color: #007bff; 
+      color: #fff; 
+      font-size: 13px; 
+      border: none; 
+      border-radius: 10px;
+      cursor: pointer; 
+      transition: background-color 0.3s ease; 
+      position: absolute;
+      top: 130px;
+      right: 70%;
+      transform: translateY(-50%);
+    }
+
+    .skirt2 {
+      display: inline-block;
+        padding: 7px 15px; 
+        background-color: #007bff; 
+        color: #fff; 
+        font-size: 13px; 
+        border: none; 
+        border-radius: 10px;
+        cursor: pointer; 
+        transition: background-color 0.3s ease; 
+        position: absolute;
+        top: 180px;
+        right: 70%;
+        transform: translateY(-50%);
+      }
+
+    .dropdown-button7{
+      display: inline-block;
+    padding: 7px 50px; 
+    background-color: transparent; 
+    color: #fff; 
+    font-size: 20px; 
+    border: none; 
+    border-radius: 10px;
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+    position: absolute;
+    top: 430px;
+    right: 1290px;
+    transform: translateY(-50%);
+    width: 210px;
+text-align: center;
+  }
+  
+  .dropdown-button7:hover {
+    background-color: #738CF1; 
+    color: #ffffff;
+    padding: 7px 50px; 
+    border-radius: 10px; 
+  }
+
+  .pants {
+    display: inline-block;
+      padding: 7px 15px; 
+      background-color: #007bff; 
+      color: #fff; 
+      font-size: 13px; 
+      border: none; 
+      border-radius: 10px;
+      cursor: pointer; 
+      transition: background-color 0.3s ease; 
+      position: absolute;
+      top: 130px;
+      right: 70%;
+      transform: translateY(-50%);
+    }
+
+    .pants2 {
+      display: inline-block;
+        padding: 7px 15px; 
+        background-color: #007bff; 
+        color: #fff; 
+        font-size: 13px; 
+        border: none; 
+        border-radius: 10px;
+        cursor: pointer; 
+        transition: background-color 0.3s ease; 
+        position: absolute;
+        top: 180px;
+        right: 70%;
+        transform: translateY(-50%);
+      }
+
+
+.upload-image{
+  position: absolute;
+  top: 585px;
+  right: -7cqmax;
+  transform: translateY(-50%);
+        }
+
+        .take-picture-button {
+    background-color: transparent;  
+    border: none; 
+    margin-left: 200px; 
+    margin-top: 560px;
+        }
+
+  .open_camera{
+          background-color: transparent;  
+          border: none; 
+  }
+
+  .stop_camera{
+    background-color: transparent;  
+    border: none; 
+    margin-left: 30px; 
+}
+
+  .button-capture{
+    position: absolute;
+    Top: 650px;
+    left: 70px; 
+  }
